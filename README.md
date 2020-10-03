@@ -4,7 +4,7 @@ This is a python lib that helps with proportion math (ex: x/100 = 20/400)
 
 after downloading the project one can use it on a personal project by using:
 
-from ProjectMath.Proportions import Proportion
+from ProportionMath.Proportions import Proportion
 
 __________________________________________________________________________
 
